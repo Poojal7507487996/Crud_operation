@@ -1,2 +1,2 @@
-# Crud_operation
-created web page
+# CRUD_operation
+Performed CRUD operation to show submitted data in the table
